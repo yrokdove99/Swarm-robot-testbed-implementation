@@ -65,15 +65,15 @@
 ## **📈 5. 개발결과**
 <table>
   <tr>
-    <td><img src="./img/gtg.gif" alt="go-to-goal"></td>
-    <td><img src="./img/ao.gif" alt="avoid-obstacle"></td>
-    <td><img src="./img/cons.gif" alt="consensus"></td>
+    <td><img src="./img/gtg.gif" alt="go-to-goal" width=400px height=400px></td>
+    <td><img src="./img/ao.gif" alt="avoid-obstacle" width=400px height=400px></td>
+    <td><img src="./img/cons.gif" alt="consensus" width=400px height=400px></td>
     <td rowspan="2"><img src="./img/mscen.gif" alt="multi-scenarios" width=800px height=800px></td>
   </tr>
   <tr>
-    <td><img src="./img/form.gif" alt="formation"></td>
-    <td><img src="./img/lf.gif" alt="leader-following"></td>
-    <td><img src="./img/cp.gif" alt="cyclic-pursuit"></td>
+    <td><img src="./img/form.gif" alt="formation" width=400px height=400px></td>
+    <td><img src="./img/lf.gif" alt="leader-following" width=400px height=400px></td>
+    <td><img src="./img/cp.gif" alt="cyclic-pursuit" width=400px height=400px></td>
   </tr>
 </table>
 
